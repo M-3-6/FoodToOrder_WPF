@@ -1,0 +1,20 @@
+﻿<Window x:Class="FoodToOrder_WPF.ViewRestaurants"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FoodToOrder_WPF"
+        mc:Ignorable="d"
+        Title="ViewRestaurants" Height="600" Width="800" Background="#2d2d2d">
+    <Viewbox>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Margin="5 5 5 5" Text="RESTAURANTS" TextAlignment="Center" FontSize="18" FontWeight="Bold"/>
+            <ListBox Grid.Row="1" HorizontalContentAlignment="Center" Foreground="Black" Margin="5 5 5 5"  Width="330pt" Background="#2d2d2d" HorizontalAlignment="Center" Name="RestaurantsList" d:ItemsSource="{d:SampleData ItemCount=5 }"/>
+        </Grid>
+    </Viewbox>
+</Window>

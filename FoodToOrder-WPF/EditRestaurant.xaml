@@ -1,0 +1,38 @@
+﻿<Window x:Class="FoodToOrder_WPF.EditRestaurant"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FoodToOrder_WPF"
+        mc:Ignorable="d"
+        Title="Edit Restaurant" Height="600" Width="800" Background="#2d2d2d">
+    <Viewbox Stretch="Uniform">
+        <Grid Margin="15" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+            </Grid.ColumnDefinitions>
+
+            <Label Content="Edit Restaurant Details:" Margin="5 5 5 5" FontSize="14" Width="130pt" />
+            <Label Grid.Row="1" Content="Restaurant Name:" Margin="5 5 5 5" FontSize="14" Width="130pt" />
+            <CheckBox Grid.Row="2" Name="editRestaurantOpenStatus" Content="Restaurant Open?" Margin="5 5 5 5" FontSize="14" Width="130pt" />
+            <TextBox Name="editRestaurantNameLabel" Grid.Row="1" Grid.Column="1" Margin="5 5 5 5" FontSize="14" Width="200pt"  />
+            <Label Grid.Row="3" Content="Dishes:" Margin="5 5 5 5" FontSize="14" Width="130pt" />
+            <StackPanel Grid.Column="1" Grid.Row="3" Orientation="Horizontal">
+                <Button  Content="Add" Margin="2" FontSize="14"  Click="AddDishButton_Clicked" />
+                <Button Content="Modify" Margin="2"  FontSize="14"  Click="EditDishButton_Clicked" />
+                <Button  Content="View" Margin="2"  FontSize="14"  Click="ViewDishButton_Clicked" />
+            </StackPanel>
+            <Button Grid.Column="1" Grid.Row="4" Content="Submit" Margin="5 5 5 5" FontSize="14" Click="SubmitEditRestaurantBtn_Click" />
+
+        </Grid>
+    </Viewbox>
+</Window>

@@ -1,0 +1,24 @@
+﻿<Window x:Class="FoodToOrder_WPF.RestaurantsHome"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FoodToOrder_WPF"
+        mc:Ignorable="d"
+        Title="RestaurantsHome" Height="600" Width="800" Background="#2d2d2d">
+    <Viewbox>
+    <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <TextBlock Margin="5 5 5 5" Text="RESTAURANTS" TextAlignment="Center" FontSize="18" FontWeight="Bold"/>
+            <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button  Content="Add" Click="Add_Restaurant_Btn_Clicked" />
+                <Button  Content="Modify" Click="Modify_Restaurant_Btn_Clicked" />
+                <Button  Content="View All" Click="View_Restaurant_Btn_Clicked" />
+            </StackPanel>
+
+        </Grid>
+    </Viewbox>
+</Window>

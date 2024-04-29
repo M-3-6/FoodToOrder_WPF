@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddDish.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddRestaurant.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="controls\CounterControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="controls\DishControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="controls\RestaurantControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DeleteDish.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DeleteRestaurant.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DishAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dishes.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditDish.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditRestaurant.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PlaceOrder.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Register.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Restaurants.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RestaurantsAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RestaurantsHome.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewDish.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewRestaurants.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddDish.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddRestaurant.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="controls\CounterControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="controls\DishControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="controls\RestaurantControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DeleteDish.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DeleteRestaurant.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DishAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dishes.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditDish.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditRestaurant.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PlaceOrder.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Register.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Restaurants.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RestaurantsAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RestaurantsHome.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewDish.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewRestaurants.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

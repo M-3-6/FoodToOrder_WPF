@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7E5DEB-E8F6-4ECF-BE34-F0C6858D115C}|FoodToOrder-WPF\\FoodToOrder_WPF.csproj|d:\\backup\\foodtoorder-wpf\\foodtoorder-wpf\\foodtoorder-wpf\\foodtoorder-wpf\\viewdish.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7E5DEB-E8F6-4ECF-BE34-F0C6858D115C}|FoodToOrder-WPF\\FoodToOrder_WPF.csproj|solutionrelative:foodtoorder-wpf\\viewdish.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7E5DEB-E8F6-4ECF-BE34-F0C6858D115C}|FoodToOrder-WPF\\FoodToOrder_WPF.csproj|d:\\backup\\foodtoorder-wpf\\foodtoorder-wpf\\foodtoorder-wpf\\foodtoorder-wpf\\viewdish.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC7E5DEB-E8F6-4ECF-BE34-F0C6858D115C}|FoodToOrder-WPF\\FoodToOrder_WPF.csproj|solutionrelative:foodtoorder-wpf\\viewdish.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7E5DEB-E8F6-4ECF-BE34-F0C6858D115C}|FoodToOrder-WPF\\FoodToOrder_WPF.csproj|d:\\backup\\foodtoorder-wpf\\foodtoorder-wpf\\foodtoorder-wpf\\foodtoorder-wpf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7E5DEB-E8F6-4ECF-BE34-F0C6858D115C}|FoodToOrder-WPF\\FoodToOrder_WPF.csproj|solutionrelative:foodtoorder-wpf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7E5DEB-E8F6-4ECF-BE34-F0C6858D115C}|FoodToOrder-WPF\\FoodToOrder_WPF.csproj|d:\\backup\\foodtoorder-wpf\\foodtoorder-wpf\\foodtoorder-wpf\\foodtoorder-wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC7E5DEB-E8F6-4ECF-BE34-F0C6858D115C}|FoodToOrder-WPF\\FoodToOrder_WPF.csproj|solutionrelative:foodtoorder-wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7E5DEB-E8F6-4ECF-BE34-F0C6858D115C}|FoodToOrder-WPF\\FoodToOrder_WPF.csproj|d:\\backup\\foodtoorder-wpf\\foodtoorder-wpf\\foodtoorder-wpf\\foodtoorder-wpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC7E5DEB-E8F6-4ECF-BE34-F0C6858D115C}|FoodToOrder-WPF\\FoodToOrder_WPF.csproj|solutionrelative:foodtoorder-wpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7E5DEB-E8F6-4ECF-BE34-F0C6858D115C}|FoodToOrder-WPF\\FoodToOrder_WPF.csproj|d:\\backup\\foodtoorder-wpf\\foodtoorder-wpf\\foodtoorder-wpf\\foodtoorder-wpf\\deletedish.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC7E5DEB-E8F6-4ECF-BE34-F0C6858D115C}|FoodToOrder-WPF\\FoodToOrder_WPF.csproj|solutionrelative:foodtoorder-wpf\\deletedish.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FoodToOrder-WPF\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 204,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteDish.xaml",
+              "DocumentMoniker": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\DeleteDish.xaml",
+              "RelativeDocumentMoniker": "FoodToOrder-WPF\\DeleteDish.xaml",
+              "ToolTip": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\DeleteDish.xaml",
+              "RelativeToolTip": "FoodToOrder-WPF\\DeleteDish.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T13:25:37.16Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewDish.xaml.cs",
+              "DocumentMoniker": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\ViewDish.xaml.cs",
+              "RelativeDocumentMoniker": "FoodToOrder-WPF\\ViewDish.xaml.cs",
+              "ToolTip": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\ViewDish.xaml.cs",
+              "RelativeToolTip": "FoodToOrder-WPF\\ViewDish.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:35:59.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewDish.xaml",
+              "DocumentMoniker": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\ViewDish.xaml",
+              "RelativeDocumentMoniker": "FoodToOrder-WPF\\ViewDish.xaml",
+              "ToolTip": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\ViewDish.xaml",
+              "RelativeToolTip": "FoodToOrder-WPF\\ViewDish.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-17T09:35:45.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\App.xaml",
+              "RelativeDocumentMoniker": "FoodToOrder-WPF\\App.xaml",
+              "ToolTip": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\App.xaml",
+              "RelativeToolTip": "FoodToOrder-WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T14:46:42.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\Login.xaml",
+              "RelativeDocumentMoniker": "FoodToOrder-WPF\\Login.xaml",
+              "ToolTip": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\Login.xaml",
+              "RelativeToolTip": "FoodToOrder-WPF\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T14:20:45.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "FoodToOrder-WPF\\Login.xaml.cs",
+              "ToolTip": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\Login.xaml.cs",
+              "RelativeToolTip": "FoodToOrder-WPF\\Login.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAgwEgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:20:40.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 44,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "FoodToOrder-WPF\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ToolTip": "D:\\backup\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\FoodToOrder-WPF\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeToolTip": "FoodToOrder-WPF\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAYwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:05:03.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.csproj.AssemblyReference.cache
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\CounterControl.g.cs
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\RestaurantControl.g.cs
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Dishes.g.cs
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\PlaceOrder.g.cs
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Register.g.cs
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Restaurants.g.cs
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsAdmin.g.cs
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\SplashScreen.g.cs
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF_MarkupCompile.cache
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF_MarkupCompile.lref
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.deps.json
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.runtimeconfig.json
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.exe
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.exe
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.deps.json
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.runtimeconfig.json
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.pdb
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.pdb
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\CounterControl.baml
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\RestaurantControl.baml
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Dishes.baml
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Login.baml
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\PlaceOrder.baml
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Register.baml
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Restaurants.baml
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsAdmin.baml
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\SplashScreen.baml
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.g.resources
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.AssemblyInfoInputs.cache
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.AssemblyInfo.cs
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOr.A986F492.Up2Date
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\refint\FoodToOrder_WPF.dll
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.pdb
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.genruntimeconfig.cache
+C:\Users\Maria Viji George\source\repos\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ref\FoodToOrder_WPF.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.deps.json
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.runtimeconfig.json
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.exe
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.exe
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.deps.json
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.runtimeconfig.json
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.pdb
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.pdb
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.csproj.AssemblyReference.cache
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddDish.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddRestaurant.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\CounterControl.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\DishControl.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\RestaurantControl.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteDish.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteRestaurant.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DishAdmin.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Dishes.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditDish.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditRestaurant.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Login.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\PlaceOrder.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Register.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Restaurants.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsAdmin.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\SplashScreen.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewDish.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewRestaurants.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\App.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF_MarkupCompile.cache
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF_MarkupCompile.lref
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\App.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddDish.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddRestaurant.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\CounterControl.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\DishControl.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\RestaurantControl.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteDish.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteRestaurant.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DishAdmin.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Dishes.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditDish.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditRestaurant.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Login.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\PlaceOrder.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Register.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Restaurants.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsAdmin.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\SplashScreen.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewDish.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewRestaurants.baml
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.g.resources
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.AssemblyInfoInputs.cache
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.AssemblyInfo.cs
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.csproj.CoreCompileInputs.cache
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOr.A986F492.Up2Date
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\refint\FoodToOrder_WPF.dll
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.pdb
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.genruntimeconfig.cache
+D:\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ref\FoodToOrder_WPF.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.csproj.AssemblyReference.cache
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddDish.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddRestaurant.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\CounterControl.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\DishControl.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\RestaurantControl.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteDish.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteRestaurant.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DishAdmin.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Dishes.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditDish.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditRestaurant.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Login.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\PlaceOrder.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Register.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Restaurants.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsAdmin.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewDish.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewRestaurants.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\App.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF_MarkupCompile.cache
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF_MarkupCompile.lref
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\refint\FoodToOrder_WPF.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.pdb
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.deps.json
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.runtimeconfig.json
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.exe
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.exe
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.deps.json
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.runtimeconfig.json
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.pdb
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.pdb
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\App.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddDish.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddRestaurant.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\CounterControl.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\DishControl.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\RestaurantControl.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteDish.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteRestaurant.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DishAdmin.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Dishes.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditDish.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditRestaurant.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Login.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\PlaceOrder.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Register.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Restaurants.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsAdmin.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewDish.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewRestaurants.baml
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.g.resources
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.AssemblyInfoInputs.cache
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.AssemblyInfo.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.csproj.CoreCompileInputs.cache
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOr.A986F492.Up2Date
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.genruntimeconfig.cache
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ref\FoodToOrder_WPF.dll
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsHome.g.cs
+D:\backup\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsHome.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.csproj.AssemblyReference.cache
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddDish.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddRestaurant.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\CounterControl.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\DishControl.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\RestaurantControl.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteDish.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteRestaurant.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DishAdmin.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Dishes.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditDish.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditRestaurant.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Login.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\PlaceOrder.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Register.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Restaurants.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsAdmin.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsHome.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewDish.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewRestaurants.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\App.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF_MarkupCompile.cache
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF_MarkupCompile.lref
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\refint\FoodToOrder_WPF.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.pdb
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.deps.json
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.runtimeconfig.json
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.exe
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.exe
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.deps.json
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.runtimeconfig.json
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.pdb
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.dll
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.pdb
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\App.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddDish.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddRestaurant.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\CounterControl.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\DishControl.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\RestaurantControl.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteDish.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteRestaurant.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DishAdmin.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Dishes.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditDish.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditRestaurant.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Login.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\PlaceOrder.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Register.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Restaurants.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsAdmin.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsHome.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewDish.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewRestaurants.baml
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.g.resources
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.AssemblyInfoInputs.cache
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.AssemblyInfo.cs
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.csproj.CoreCompileInputs.cache
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOr.A986F492.Up2Date
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.genruntimeconfig.cache
+D:\backup\FoodToOrder-WPF-1\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ref\FoodToOrder_WPF.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.deps.json
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.runtimeconfig.json
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.exe
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.exe
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.deps.json
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.runtimeconfig.json
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_WPF.pdb
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\bin\Debug\net8.0-windows\FoodToOrder_Database.pdb
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.csproj.AssemblyReference.cache
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddDish.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddRestaurant.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\CounterControl.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\DishControl.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\RestaurantControl.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteDish.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteRestaurant.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DishAdmin.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Dishes.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditDish.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditRestaurant.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Login.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\PlaceOrder.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Register.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Restaurants.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsAdmin.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsHome.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewDish.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewRestaurants.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\App.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF_MarkupCompile.cache
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF_MarkupCompile.lref
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\App.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddDish.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\AddRestaurant.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\CounterControl.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\DishControl.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\controls\RestaurantControl.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteDish.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DeleteRestaurant.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\DishAdmin.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Dishes.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditDish.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\EditRestaurant.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Login.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\PlaceOrder.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Register.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\Restaurants.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsAdmin.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\RestaurantsHome.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewDish.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ViewRestaurants.baml
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.g.resources
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.AssemblyInfoInputs.cache
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.AssemblyInfo.cs
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.csproj.CoreCompileInputs.cache
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOr.A986F492.Up2Date
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\refint\FoodToOrder_WPF.dll
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.pdb
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\FoodToOrder_WPF.genruntimeconfig.cache
+D:\backup\FoodToOrder-WPF-Final\FoodToOrder-WPF\FoodToOrder-WPF\FoodToOrder-WPF\obj\Debug\net8.0-windows\ref\FoodToOrder_WPF.dll

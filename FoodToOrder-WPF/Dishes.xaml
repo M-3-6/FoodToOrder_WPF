@@ -1,0 +1,36 @@
+﻿<Window x:Class="FoodToOrder_WPF.Dishes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FoodToOrder_WPF"
+        xmlns:mycontrols="clr-namespace:FoodToOrder_WPF.controls"
+        mc:Ignorable="d"
+        Title="Dishes" Height="600" Width="800" Background="#2d2d2d">
+   
+    <Viewbox>
+        <Grid Name="DishScreenGrid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+
+            <TextBlock Name="DishesHeading" Margin="5 5 5 5" Text="DISHES" TextAlignment="Center" FontSize="18" FontWeight="Bold"/>
+            <ListBox Background ="#2d2d2d"  HorizontalContentAlignment="Center" Margin="5 5 5 5"  Width="330pt" Name="dishListBox" Grid.Row="1" HorizontalAlignment="Center" ItemsSource="{Binding DishList}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Margin="0 8" Width="170" Text="{Binding DishName}" />
+                            <TextBlock x:Name="DishPriceText" Margin="0 8" Width="50" Text="{Binding Price}" />
+                            <mycontrols:CounterControl x:Name="DishQty" HorizontalAlignment="Right" />
+
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <Button Content="Place Order" Foreground="#f4f4f2" FontSize="12" Grid.Row="2" Click="Place_Order_Button_Click" />
+        </Grid>
+    </Viewbox>
+</Window>
