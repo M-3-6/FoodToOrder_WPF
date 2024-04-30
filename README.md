@@ -5,8 +5,8 @@ Data is fetched from and stored in SQL Database.
 ## Users:
 FoodToOrder system has two kinds of users:
 1. Customer - There are multiple customrs Customer can:
-  1. Browse dishes from multiple restaurants.
-  2. Add to cart from only one restaurant.
+    1. Browse dishes from multiple restaurants.
+    2. Add to cart from only one restaurant.
 2. Admin - There is only 1 admin Admin should be able to:
   1. Add Restaurants/Dishes
   2. Update Restaurants/Dishes
